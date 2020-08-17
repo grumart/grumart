@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Kawayanan - the island resort project
+#### Kawayanan - the island resort project :palm_tree:
 
 ![Kawayanan project] (./island_screenshot-1.jpg)
+
+*This project was mainly focused on CSS (Sass in perticular) to create eyepleasing hotel-retreat website*
+*To see more, please wisit: https://github.com/grumart/kawayanan *
