@@ -5,7 +5,7 @@
 </br>
 
 #### Kawayanan - the island resort project :palm_tree:
-![Kawayanan project] (/github/island_screenshot-1.jpg)
+![Kawayanan project] (https://github.com/grumart/kawayanan/tree/master/img/screenshot-1.jpg)
 
 *This project was mainly focused on CSS (Sass in perticular) to create eyepleasing hotel-retreat website* </br>
 To see more, please visit: https://github.com/grumart/kawayanan 
