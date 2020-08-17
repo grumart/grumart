@@ -32,4 +32,7 @@ To see more, please visit: https://github.com/grumart/Burger-App
 
 ### Little about me as a web developer:
 </br>
-** Courses-holic ** After a decision to change my career to web development, compleadted multiple courses to gain the knowledge and confidence to write good quality (and working!) code. Learning online has thought me self-discipline, searching for additional explanations on MDN or Stackoverflow if some of the parts weren't quite clear at the beginnig, and using * documentation * in new to me libaries :wink: .
+**Courses-holic** After a decision to change my career to web development, compleadted multiple courses to gain the knowledge and confidence to write good quality (and working!) code. Learning online has thought me self-discipline, searching for additional explanations on MDN or Stackoverflow if some of the parts weren't quite clear at the beginnig, and using * documentation * in new to me libaries :wink: . </br>
+**Fascinated by the power of JavaScript** We all love and admire beautifly designed webpages or apps. We all do. But there is nothing better than functionallity that actually works and gives you the desired output. Either ordering something online, getting geolocation, connecting to database - that's the true magic. Together with React, this will be my main focus in upcoming career :woman_technologist: . </br>
+**Never-ending learing journey** That was the main factor which has drawn me to this industry. Self-development. There is always something new to learn, another language, getting familiar with a package or library. Maybe back-end someday? Who knows! :brain: </br>
+
