@@ -20,7 +20,7 @@ To see more, please visit: https://github.com/grumart/Cat-Angels-React
 
 </br>
 
-#### BurgerApp - applicatioon to order custom made burgers (done doing Reach course) :hamburger:
+#### BurgerApp - applicatioon to order custom made burgers (done doing React.js course) :hamburger:
 ![BurgerApp project](/github/burgerapp_screenshot-1.jpg)
 
 *The most challenging and satisfying project of all listed above. A lot of JS using: React.js, Firebase, Redux and Axios. * </br>
