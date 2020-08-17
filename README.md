@@ -1,5 +1,4 @@
-## Hii! 
-## I'm Marta! 👋
+## Hii! I'm Marta! 👋
 </br>
 
 ### Let me present you some of my projects you can find on my GitHub:
