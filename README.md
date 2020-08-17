@@ -1,7 +1,8 @@
-### Hii! 
+## Hii! 
 ## I'm Marta! 👋
+</br>
 
-## Let me present you some of my projects you can find on my GitHub:
+### Let me present you some of my projects you can find on my GitHub:
 
 <!--
 **grumart/grumart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
