@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 #### Kawayanan - the island resort project
 
-![Kawayanan project] (island_screenshot-1.jpg)
+![Kawayanan project] (/island_screenshot-1.jpg)
