@@ -1,5 +1,5 @@
 ## Hii! I'm Marta! 👋
-### Let me present you some of my projects you can find on my GitHub:
+### Let me present some of my projects you can find on my GitHub:
 </br>
 
 #### Kawayanan - the island resort project :palm_tree:
